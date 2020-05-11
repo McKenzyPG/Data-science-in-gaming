@@ -1,0 +1,7 @@
+The goal of this pet project is to experiment with building recommendation engines for video games purchases. The data used are 2 Steam dataset, one of which contains data on users, what games they bought and how many hours they palyed.
+The other contains info on the games, like generes, tags, publishers etc.
+
+The project will is diveded into 3 parts:
+Part 1 is basic yet comprehensive analysis focusing on understanding both datasets, building classification models (which are proto-rec_engines) and playing with basic feature generation.
+In Part 2 we will try to tackle the imbalanced classes problems and generate more features from etxt values
+In Part 3 we will use collaborative filtering to build our recoomender engine
